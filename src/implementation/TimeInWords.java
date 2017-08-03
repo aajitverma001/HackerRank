@@ -34,7 +34,6 @@ public class TimeInWords {
 		} finally {
 			sc.close();
 		}
-
 	}
 
 	private static String minutes(int m) {
